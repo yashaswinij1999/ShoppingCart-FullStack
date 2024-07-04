@@ -12,7 +12,7 @@ This is a full-stack shopping cart application that allows users to browse produ
     - [Backend Setup](#backend-setup)
     - [Running the Application](#running-the-application)
   - [Features](#features)
-  - [Technologies Used](#technologies-used)
+  - [Concepts Used](#concepts-used)
     - [Frontend](#frontend)
     - [Backend](#backend)
   - [Frontend](#frontend-1)
@@ -31,12 +31,17 @@ The project is organized into two main directories:
 ## Installation
 
 1. Clone the repository:
+
    ```
-   git clone https://github.com/yourusername/shopping-cart-app.git
+   https://github.com/yashaswinij1999/ShoppingCart-FullStack.git
+
    ```
+
 2. Navigate to the project directory:
+
    ```
-   cd shopping-cart-app
+   cd ShoppingCart-FullStack
+
    ```
 
 ### Frontend Setup
@@ -98,7 +103,7 @@ The backend server will run on http://localhost:3000.
 - decrement the product quanties in the cart.
 - remove products from the cart.
 
-## Technologies Used
+## Concepts Used
 
 ### Frontend
 
