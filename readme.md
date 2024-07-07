@@ -6,6 +6,7 @@ This is a full-stack shopping cart application that allows users to browse produ
 
 - [ShoppingCart-FullStack](#shoppingcart-fullstack)
   - [Table of Contents](#table-of-contents)
+  - [Prerequisites](#prerequisites)
   - [Project Structure](#project-structure)
   - [Installation](#installation)
     - [Frontend Setup](#frontend-setup)
@@ -20,6 +21,12 @@ This is a full-stack shopping cart application that allows users to browse produ
   - [Backend](#backend-1)
     - [API Endpoints](#api-endpoints)
   - [Middleware and Controllers](#middleware-and-controllers)
+
+## Prerequisites
+
+Before you begin, ensure you have the following installed on your machine:
+
+- [Node.js](https://nodejs.org/en)
 
 ## Project Structure
 
