@@ -40,14 +40,14 @@ The project is organized into two main directories:
 1. Clone the repository:
 
    ```
-   https://github.com/yashaswinij1999/ShoppingCart-FullStack.git
+   git clone https://github.com/yashaswinij1999/shopping-cart-fullstack.git
 
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd ShoppingCart-FullStack
+   cd shopping-cart-fullstack
 
    ```
 
